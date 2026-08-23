@@ -54,9 +54,10 @@ ul {
   gap : 16px;
   padding : 0;
   
+  
 }
 
-.left {
+.left,.right {
 
  display : flex;
  align-items : center;
@@ -67,11 +68,3 @@ ul {
 }
 
 
-.right {
-
- display : flex;
- align-items: center;
- gap : 16px;
-
-
-}
